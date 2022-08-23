@@ -1,5 +1,5 @@
 # Firebeetle-2-ESP32-E motion sensor
-This project is about using the Firebeetle ESP32-E (SKU:DFR0654-F) as battery powered motion sensor
+This project is about using the Firebeetle ESP32-E (SKU:DFR0654) as battery powered motion sensor
 
 <img src="IMG_3333.JPG" width="480">
 
